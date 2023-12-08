@@ -18,6 +18,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Program walk-through:</h2>
 <p>Take your screenshots & describe a little what you were doing</p>
+<p>Use "imgur Image". Take a screen shot, upload it to imgur, copy the link address, then you can attach that address to this document as a image source </p>
 
 <p align="center">
 Launch the utility: <br/>
